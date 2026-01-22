@@ -1,0 +1,23 @@
+﻿# Data
+data/raw/
+data/processed/
+
+# Outputs
+outputs/models/
+outputs/reports/
+outputs/figures/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log

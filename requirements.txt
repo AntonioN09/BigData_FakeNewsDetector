@@ -1,0 +1,4 @@
+pyspark==4.1.1
+pyyaml
+pandas
+numpy
